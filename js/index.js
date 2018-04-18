@@ -1,0 +1,1 @@
+console.log('WebPack is pretty neat! Suck it, haters.');
